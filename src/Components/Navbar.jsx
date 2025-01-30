@@ -4,7 +4,7 @@ import { Routes } from "react-router-dom";
 import { Link } from "react-router-dom";
 import Login from "../Pages/Login";
 const Navbar = () => {
-  return (
+  return 
     // <div className="navbar">
     //   {/* <Link to="/"> Home</Link> */}
     //   <Routes>
@@ -14,7 +14,7 @@ const Navbar = () => {
     //   </Routes>
     //   {/* <Link to = "/books">Books </Link> */}
     // </div>
-  );
+  
 };
 
 export default Navbar;
